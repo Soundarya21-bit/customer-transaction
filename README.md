@@ -8,4 +8,4 @@ This project predicts whether a customer will make a transaction using historica
 - Accuracy: 84%
 - Tools: Python, Pandas, Scikit-Learn
 
-Notebook: [customer_transaction.ipynb](./customer_transaction.ipynb)
+Notebook: [customer_transaction_prediction_final.ipynb](./customer_transaction_prediction_final.ipynb)
