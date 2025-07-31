@@ -4,8 +4,9 @@
 
 This project predicts whether a customer will make a transaction using historical data and machine learning.
 
-- Model: Random Forest
-- Accuracy: 84%
+- Model: Logistic Regression 
+- Accuracy: 78%%
+- AUC Score: 85%
 - Tools: Python, Pandas, Scikit-Learn
 
-Notebook: [customer_transaction_prediction_final.ipynb](./customer_transaction_prediction_final.ipynb)
+Notebook: [Customer_Transaction_Prediction_Final.ipynb](./Customer_Transaction_Prediction_Final.ipynb)
