@@ -10,7 +10,7 @@ historical behavioral data.
 ## Project Overview
  
 Built an end-to-end binary classification pipeline to predict
-customer transactions on a dataset of 200,000+ records.
+customer transactions on a dataset of 200+ records.
 Key challenge was severe class imbalance (1:10 ratio) which
 was handled using SMOTE oversampling.
  
@@ -18,7 +18,7 @@ was handled using SMOTE oversampling.
  
 ## Dataset
  
-- Size: 200,000+ customer transaction records
+- Size: 200+ customer transaction records
 - Target: is_transaction (1 = transaction, 0 = no transaction)
 - Class Imbalance: Severe 1:10 ratio (positive:negative)
  
